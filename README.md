@@ -40,6 +40,7 @@ Vercet Llopis, Moisés
 ## B
 
 Marhuenda Valle, David 
+* [p1_flag_bisexual](https://davidmarhuenda.github.io/p0_flag/)
 
 Orts Ivorra, Paula 
 
