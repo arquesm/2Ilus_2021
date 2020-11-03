@@ -47,6 +47,7 @@ Orts Ivorra, Paula
 Pascual García, Rebeca 
 
 Perucho Calvaras, Laia 
+* [p1_flag_bisexual](https://laiaperucho.github.io/p0_flag/)
 
 Pineda Martínez, Aitana 
 
