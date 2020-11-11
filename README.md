@@ -19,9 +19,6 @@ Cuenca Bravo, Anabel
 
 Delgado Moll, Miriam 
 
-Gaitán Martínez, María 
-* [p1_flag_gay](https://mariagay.github.io/p0_sapphicflag/)
-
 Galdón Torregrosa, Alba 
 
 Garro Espinosa Ma José 
@@ -38,6 +35,9 @@ Navarro Espinosa, Ángela María
 Vercet Llopis, Moisés 
 
 ## B
+
+Gaitán Martínez, María 
+* [p1_flag_gay](https://mariagay.github.io/p0_sapphicflag/)
 
 Marhuenda Valle, David 
 * [p1_flag_bisexual](https://davidmarhuenda.github.io/p0_flag/)
@@ -71,6 +71,6 @@ Sosa Chanab, Micaela Luz
 * [p1_flag_republikflag](https://m2293.github.io/p0_republikflag/)
 
 Vilar, Ferris, Aitana 
-* [p1_flag_¿?¿](https://mariagay.github.io/p0_sapphicflag/)
+* [https://vilarfa.github.io/p0_flag/](https://mariagay.github.io/p0_aitana/)
 
 Wan Bang, Zhang Chen (Blass) 
