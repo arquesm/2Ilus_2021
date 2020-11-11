@@ -58,7 +58,7 @@ Ruiz Serrano, Samuel
 Santonja Anduix, Francesc Xavier 
 
 Santonja Gisbert, Lidia 
-* [p1_flag¿?¿?¿?¿ NO VA](https://github.com/Lidia1994/p0_flag/commit/9f6137eb0e67eb019664adbc866bdcd349a62c69)
+* [p1_flag](https://lidia1994.github.io/p0_flag/)
 
 Serrano Francés, Sara 
 * [p1_flag_asexual](https://akaablue.github.io/p0_/)
