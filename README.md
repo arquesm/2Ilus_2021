@@ -31,6 +31,7 @@ Gomis Marmalejo, Alba
 * [p1_flag_trans](https://albagomis.github.io/p0_flag/)
 
 Hernández Barber, Jorge 
+* [p1_flag](https://jorgehernanbar.github.io/p1_flag_A/)
 
 Lourido Fernández, Manuela 
 * [p1_flag](https://manuelalourido.github.io/p1-flag-A/)
