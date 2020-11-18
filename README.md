@@ -38,6 +38,7 @@ Lourido Fernández, Manuela
 * [p1_flag](https://manuelalourido.github.io/p1-flag-A/)
 
 Navarro Espinosa, Ángela María 
+* [p1_flag](https://annaesz.github.io/p1_flag/)
 
 Vercet Llopis, Moisés 
 * [p1_flag](https://moisesvercet.github.io/P1-A-flag/)
