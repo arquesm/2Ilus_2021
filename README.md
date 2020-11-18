@@ -29,10 +29,11 @@ Gomis Marmalejo, Alba
 Hernández Barber, Jorge 
 
 Lourido Fernández, Manuela 
-
+* [p1_flag](https://manuelalourido.github.io/p1-flag-A/)
 Navarro Espinosa, Ángela María 
 
 Vercet Llopis, Moisés 
+* [p1_flag](https://moisesvercet.github.io/P1-A-flag/)
 
 ## B
 
@@ -77,3 +78,4 @@ Vilar, Ferris, Aitana
 * [https://vilarfa.github.io/p0_flag/](https://mariagay.github.io/p0_aitana/)
 
 Wan Bang, Zhang Chen (Blass) 
+* [p1_flag_pokemon](https://blasskill.github.io/p1_flag_pokemon/)
