@@ -5,6 +5,7 @@ Grup de 2n d'Il·lustració A i B
 Artero Juan, Nayara 
 
 Blanes Camarasa, David 
+* [p1_flag](https://david-blanes.github.io/p1_flag_A/)
 
 Borrell Cardona, Esteban 
 * [p1_flag](https://esteban21-18.github.io/cautious-happiness/)
