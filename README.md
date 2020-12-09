@@ -45,7 +45,7 @@ Vercet Llopis, Moisés
 
 ## B
 
-Gaitán Martínez, María 
+[Gaitán Martínez, María](https://mariagay.github.io/p1Banderas/)
 * [p1_flag_gay](https://mariagay.github.io/p0_sapphicflag/)
 
 Marhuenda Valle, David 
