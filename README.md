@@ -57,7 +57,7 @@ Orts Ivorra, Paula
 Pascual García, Rebeca 
 * [p1_flag](https://boboquie.github.io/P0_Flag/)
 
-Perucho Calvaras, Laia 
+[Perucho Calvaras, Laia](https://laiaperucho.github.io/p1_clase_flags/)
 * [p1_flag_bisexual](https://laiaperucho.github.io/p0_flag/)
 
 Pineda Martínez, Aitana 
