@@ -80,7 +80,7 @@ Shakif Shinwar, Miriam Ehab
 
 Sirvent Terol, Jaime 
 
-Sosa Chanab, Micaela Luz 
+[Sosa Chanab, Micaela Luz](https://m2293.github.io/p1_banderas/) 
 * [p1_flag_republikflag](https://m2293.github.io/p0_republikflag/)
 
 Vilar, Ferris, Aitana 
