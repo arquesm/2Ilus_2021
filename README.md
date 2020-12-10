@@ -29,7 +29,7 @@ Garro Espinosa Ma José
 * [p1_flag](https://maria-jose-garro-espinosa.github.io/p1_Flag_A/)
 
 Gomis Marmalejo, Alba 
-* [p1_flag_trans](https://albagomis.github.io/p0_flag/)
+* [p1_flag_trans](https://albagomis.github.io/p1_clase_flags/)
 
 Hernández Barber, Jorge 
 * [p1_flag](https://jorgehernanbar.github.io/p1_flag_A/)
