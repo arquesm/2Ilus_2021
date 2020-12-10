@@ -86,5 +86,5 @@ Sirvent Terol, Jaime
 Vilar, Ferris, Aitana 
 * [https://vilarfa.github.io/p0_flag/](https://mariagay.github.io/p0_aitana/)
 
-Wan Bang, Zhang Chen (Blass) 
+[Wan Bang, Zhang Chen (Blass)](https://blasskill.github.io/flag-gallery/)
 * [p1_flag_pokemon](https://blasskill.github.io/p1_flag_pokemon/)
