@@ -9,7 +9,7 @@ Grup de 2n d'Il·lustració A i B
 
 Artero Juan, Nayara 
 
-Blanes Camarasa, David 
+[Blanes Camarasa, David](https://david-blanes.github.io/My_Flag_is_Yours_A/)
 * [p1_flag](https://david-blanes.github.io/p1_flag_A/)
 
 Borrell Cardona, Esteban 
