@@ -1,6 +1,10 @@
 # 2Ilus_2021
 Grup de 2n d'Il·lustració A i B
 ## A
+* p0. Bandera + GIF
+* p1. Col·lecció de banderes dels companys
+* p2. Col·lecció de gifs per a plataforma [giphy](https://support.giphy.com/hc/en-us/articles/360029960931-Requirements-for-Sticker-Approval). 7 gifs mínim, temàtica lliure.
+
 
 Artero Juan, Nayara 
 
